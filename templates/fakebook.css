@@ -1,0 +1,35 @@
+body {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+.logo {
+    color: blue;
+    border: 10px blue solid;
+}
+
+.pic {
+    border: 8px black solid;
+}
+
+.pic:hover {
+    border: 8px blue solid;
+}
+
+h3 {
+    color: blue;
+}
+
+.subheader {
+    font-weight: bold;
+    display: inline;
+}
+
+.subheader:hover {
+    color: blue;
+}
+
+.inline {
+    display: inline;
+}

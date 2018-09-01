@@ -1,0 +1,65 @@
+body {
+      font-family: 'Roboto', sans-serif;
+}
+
+.logo-container {
+      width: 20%;
+      margin: 0 auto;
+}
+
+.logo {
+      display: table;
+      margin: 0 auto;
+
+}
+
+.tagline {
+      display: table;
+      margin: 0 auto;
+      text-align: center;
+}
+
+.login-container {
+      width: 20%;
+      max-width:400px;
+      padding: 40px 5px;
+      margin: 0 auto;
+      background-color: #F2F2F2;
+      box-shadow: 2px 3px #b3b3b3;
+}
+
+.anon {
+      display: table;
+      margin: 0 auto;
+}
+
+.email, .password {
+      display: block;
+      width: 90%;
+      height: 30px;
+      margin: 10px auto;
+      box-shadow: inset 1px 1px #b3b3b3;
+      text-indent: 2%;
+}
+
+.submit {
+      display: block;
+      margin: 0 auto;
+      width: 90%;
+      height: 40px;
+      margin: 10px auto;
+      background-color: #0066cc;
+      color: white;
+}
+
+.account-container {
+
+}
+
+.account-link {
+      text-decoration: none;
+      color: #0066cc;
+      display: block;
+      text-align: center;
+      margin: 10px auto;
+}
